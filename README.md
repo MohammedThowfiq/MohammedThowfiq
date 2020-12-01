@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Skilled in Android Application Development, Python, C++, Java, Kotlin and Dart .
-- 📱 Experienced Android Developer with 10 apps successfully published on to the Google Play Store.
+- 💻 Skilled in Android Application Development, Python, C++, Java, Kotlin and Dart.
 - ⚙️ Filled with the potential of converting ideas into working products.
 - ✔ Interested in the field of Machine Learning and Data Science.
 - 🔭 I’m currently working on Mobile Application Development (Flutter) and Machine Learning and learning
