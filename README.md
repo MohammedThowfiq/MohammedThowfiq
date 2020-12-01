@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Skilled in Android Application Development, Python, C++, Java, Kotlin and Dart .
+📱 Experienced Android Developer with 10 apps successfully published on to the Google Play Store.
+⚙️ Filled with the potential of converting ideas into working products.
+✔ Interested in the field of Machine Learning and Data Science.
+🔭 I’m currently working on Mobile Application Development (Flutter) and Machine Learning and learning
+📫 How to reach me: Visit [Linkedin - @Mohammed Thowfiq S](https://www.linkedin.com/in/mohammedthowfiq/)
+
