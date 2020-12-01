@@ -9,4 +9,4 @@
 - 👯 I’m looking to collaborate 
 - 💬 Ask me about Flutter or Android App Development
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm also a programmer
+- ⚡ Fun fact: I'm also a programmer :)
