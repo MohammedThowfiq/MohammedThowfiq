@@ -12,11 +12,12 @@
 ## ⚡Languages Known⚡:
 
 <p align="left"> 
-<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="60" height="60"/> </a>
-<a href="https://java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="70" height="70"/> </a>
+<a href="https://java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="70" height="70"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="70" height="70"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="70" height="70"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java Script" width="70" height="70"/> </a>
 </p>
 
 ## ⚡Tools & Platforms⚡:
@@ -24,44 +25,44 @@
 ### ⚡App Development⚡:
 
 <p align="left"> 
-<a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="60" height="60"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="60" height="60"/> </a>
-<a href="https://graphql.org/" target="_blank"> <img src="https://hackernoon.com/hn-images/1*Fz_DTbJptm_S7GccttSFVw.png" alt="GraphQL" width="80" height="60"/> </a>
+<a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="70" height="70"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="70" height="70"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70" height="70"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="70" height="70"/> </a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://hackernoon.com/hn-images/1*Fz_DTbJptm_S7GccttSFVw.png" alt="GraphQL" width="80" height="70"/> </a>
 </p>
 
 ### ⚡DevOps⚡:
 
 <p align="left">
-<a href="https://www.cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> </a>
-<a href="https://nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/> </a>
+<a href="https://www.cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Docker" width="70" height="70"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="70" height="70"/> </a>
+<a href="https://nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="70" height="70"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="70" height="70"/> </a>
 </p>
 
 ### ⚡Big Data⚡:
 <p align="left">
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="60" height="60"/> </a> 
-<a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="60" height="60"/> </a> 
-<a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="60" height="60"/> </a>
-<a href="https://databricks.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Data Bricks" width="60" height="60"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://seekicon.com/free-icon-download/airflow_1.svg" alt="Airflow" width="60" height="60"/> </a>
-<a href="https://hbase.apache.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/kd/352129/png/hbase-logo.png" alt="HBase" width="60" height="60"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="60" height="60"/> </a>
-<a href="https://maven.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="60" height="60"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="70" height="70"/> </a> 
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="70" height="70"/> </a> 
+<a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="70" height="70"/> </a>
+<a href="https://databricks.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Data Bricks" width="70" height="70"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://seekicon.com/free-icon-download/airflow_1.svg" alt="Airflow" width="70" height="70"/> </a>
+<a href="https://hbase.apache.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/kd/352129/png/hbase-logo.png" alt="HBase" width="70" height="70"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="70" height="70"/> </a>
+<a href="https://maven.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="70" height="70"/> </a>
 </p>
 
 
 ### ⚡Web Development⚡:
 
 <p align="left">
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="60" height="60"/> </a>
-<a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/> </a> 
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.Js" width="60" height="60"/> </a>
-<a href="https://mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="70" height="70"/> </a>
+<a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="70" height="70"/> </a> 
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="70" height="70"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.Js" width="70" height="70"/> </a>
+<a href="https://mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="70"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/> </a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -69,7 +70,7 @@
 ```javascript
 const MohammedThowfiq = {
 	pronouns: 'He' | 'Him',
-	code: ['C++','Java', 'Python','Kotlin','Dart'],
+	code: ['C++','Java', 'Python','Kotlin','Dart','Java Script'],
 	askMeAbout: ['app dev', 'devops', 'big data','web dev'],
 	technologies: {
 		bigData: ['Hadoop','Spark','Hive','Databricks','Airflow','HBase','kafka','Maven'],
@@ -101,4 +102,4 @@ const MohammedThowfiq = {
 </p>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
