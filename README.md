@@ -4,12 +4,12 @@
 <p><em>Software Engineer at <a href="http://www.temenos.com">Temenos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: mohammedthowfiq](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/mohammedthowfiq/)
+[![Linkedin: mohammedthowfiq](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedthowfiq/)
 ![GitHub followers](https://img.shields.io/github/followers/MohammedThowfiq?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mohammedthowfiq.github.io/)](https://mohammedthowfiq.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Mohammed.Thowfiq)
 
-### ⚡Languages Known⚡:
+## ⚡Languages Known⚡:
 
 <p align="left"> 
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="60" height="60"/> </a>
@@ -19,7 +19,7 @@
 <a href="https://dart.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/> </a>
 </p>
 
-### ⚡Tools & Platforms⚡:
+## ⚡Tools & Platforms⚡:
 
 ### ⚡App Development⚡:
 
