@@ -46,7 +46,7 @@
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="60" height="60"/> </a> 
 <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="60" height="60"/> </a>
 <a href="https://databricks.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Data Bricks" width="60" height="60"/> </a>
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Airflow" width="60" height="60"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://seekicon.com/free-icon-download/airflow_1.svg" alt="Airflow" width="60" height="60"/> </a>
 <a href="https://hbase.apache.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/kd/352129/png/hbase-logo.png" alt="HBase" width="60" height="60"/> </a>
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="60" height="60"/> </a>
 <a href="https://maven.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="Maven" width="60" height="60"/> </a>
@@ -95,6 +95,8 @@ const MohammedThowfiq = {
 
 <p align="left">
 <img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedThowfiq&" alt="MohammedThowfiq" />
+</p>
+<p align="left">
 <img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedThowfiq&show_icons=true&theme=tokyonight&locale=en" alt="MohammedThowfiq" />
 </p>
 
