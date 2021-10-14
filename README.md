@@ -4,12 +4,12 @@
 <p><em>Software Engineer at <a href="http://www.temenos.com">Temenos</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: mohammedthowfiq](https://img.shields.io/badge/mohammedthowfiq?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammedthowfiq/)](https://www.linkedin.com/in/mohammedthowfiq/)
+[![Linkedin: mohammedthowfiq](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22)](https://www.linkedin.com/in/mohammedthowfiq/)
 ![GitHub followers](https://img.shields.io/github/followers/MohammedThowfiq?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mohammedthowfiq.github.io/)](https://mohammedthowfiq.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Mohammed.Thowfiq)
 
-### ⚡Languages Know⚡:
+### ⚡Languages Known⚡:
 
 <p align="left"> 
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="60" height="60"/> </a>
@@ -70,7 +70,7 @@
 const MohammedThowfiq = {
 	pronouns: 'He' | 'Him',
 	code: ['C++','Java', 'Python','Kotlin','Dart'],
-	askMeAbout: ['app dev', 'tech', 'web dev', 'anthropology'],
+	askMeAbout: ['app dev', 'devops', 'big data','web dev'],
 	technologies: {
 		bigData: ['Hadoop','Spark','Hive','Databricks','Airflow','HBase','kafka','Maven'],
 		mobileApp: ['Native Android','Flutter','React Native'],
@@ -82,7 +82,7 @@ const MohammedThowfiq = {
 			js: ['node','express.js'],
 			python: ['core'],
 		},
-		devOps: ['GCP','Docker🐳','kubernetes','Nginx'],
+		devOps: ['GCP','Docker','kubernetes','Nginx'],
 		databases: ['mongo', 'MySql','Cassendra','Firebase'],
 		versionControl:['Git','BitBucket'],
 	},
