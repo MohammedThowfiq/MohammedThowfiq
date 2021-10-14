@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: mohammedthowfiq](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedthowfiq/)
-[![GitHub followers](https://img.shields.io/github/followers/MohammedThowfiq?label=Follow&style=social)(https://github.com/MohammedThowfiq/MohammedThowfiq)]
+![GitHub followers](https://img.shields.io/github/followers/MohammedThowfiq?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mohammedthowfiq.github.io/)](https://mohammedthowfiq.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Mohammed.Thowfiq)
 
